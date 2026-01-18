@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi! I'm Andrew Yin 👋
+
+I'm a student studying EECS at UT Austin, currently working on as the CTO of my startup prop trading firm called [Square Kettle](https://github.com/Square-Kettle) with some friends. Here's my [company GitHub account](https://github.com/andrewyin-squarekettle).
+
+Super open to coffee chats!
+
+📫 How to reach me:
+- Email: andrew.yin@utexas.edu
 
 <!--
 **AndrewYin04/AndrewYin04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
