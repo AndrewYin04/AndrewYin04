@@ -4,6 +4,8 @@ I'm a student studying EECS at UT Austin, currently working on as the CTO of my 
 
 Super open to coffee chats!
 
+🔭 More about me on my website! [andrewyin.co](https://andrewyin.co/)
+
 📫 How to reach me:
 - Email: andrew.yin@utexas.edu
 
