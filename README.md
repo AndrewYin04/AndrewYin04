@@ -1,6 +1,6 @@
 ## Hi! I'm Andrew Yin 👋
 
-I'm a student studying EECS at UT Austin, currently working on as the CTO of my startup prop trading firm called [Square Kettle](https://github.com/Square-Kettle) with some friends. Here's my [company GitHub account](https://github.com/andrewyin-squarekettle).
+I'm a student studying EECS at UT Austin, currently working as the CTO of my startup prop trading firm called [Square Kettle](https://github.com/Square-Kettle) with some friends. Here's my [company GitHub account](https://github.com/andrewyin-squarekettle).
 
 Super open to coffee chats!
 
